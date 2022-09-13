@@ -1,0 +1,7 @@
+{
+  "name": "appReportes-Clientes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
